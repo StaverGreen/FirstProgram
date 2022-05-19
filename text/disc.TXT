@@ -1,8 +1,8 @@
 ___________________
-a previous picture
-d next picture
-z change zoom mode
-scroll for zoom
-space bonus album
-shift a previous album
-shift d next album
+a - previous picture
+d - next picture
+z - change zoom mode
+scroll - zoom
+space - bonus album
+shift + a - previous album
+shift + d - next album
