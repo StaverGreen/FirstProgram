@@ -3,6 +3,7 @@ a - previous picture
 d - next picture
 z - change zoom mode
 scroll - zoom
-space - bonus album
+space - activate
+shift + space - bonus album
 shift + a - previous album
 shift + d - next album
